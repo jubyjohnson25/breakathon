@@ -1,0 +1,25 @@
+{
+    "name": "treasure-hunt-tracker",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+      "dev": "next dev",
+      "build": "next build",
+      "start": "next start"
+    },
+    "dependencies": {
+      "next": "13.4.7",
+      "react": "18.2.0",
+      "react-dom": "18.2.0",
+      "class-variance-authority": "^0.7.0",
+      "clsx": "^2.0.0",
+      "lucide-react": "^0.263.1",
+      "tailwind-merge": "^2.0.0",
+      "tailwindcss-animate": "^1.0.7"
+    },
+    "devDependencies": {
+      "autoprefixer": "^10.4.16",
+      "postcss": "^8.4.31",
+      "tailwindcss": "^3.3.5"
+    }
+  }
